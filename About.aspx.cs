@@ -9,9 +9,12 @@ namespace GitHubNet
 {
     public partial class About : System.Web.UI.Page
     {
+        protected string testContent;
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            testContent = "Hello GitHub.";
         }
     }
 }
