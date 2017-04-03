@@ -2,3 +2,5 @@
 \\Mac\Home\Documents\Parallels Data\GitHubNet\bin\GitHubNet.pdb
 \\Mac\Home\Documents\Parallels Data\GitHubNet\obj\Debug\GitHubNet.dll
 \\Mac\Home\Documents\Parallels Data\GitHubNet\obj\Debug\GitHubNet.pdb
+\\Mac\Home\Documents\Parallels Data\GitHubNet\bin\GitHubNet.dll.config
+\\Mac\Home\Documents\Parallels Data\GitHubNet\obj\Debug\GitHubNet.csprojResolveAssemblyReference.cache
